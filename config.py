@@ -1,0 +1,1 @@
+LATEST_VERSION="0.0.2-rc.0-mota"
